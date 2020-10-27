@@ -1,0 +1,17 @@
+
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(…ß±øÿÿÿÿ
+N
+squid:S106!"9Replace this use of System.out or System.err by a logger.(“éÛT
+Xsquid:S22092"5Change this instance-reference to a static reference.(ÓÓ®âüÿÿÿÿ8›Ó’ÕÖ.
+Psquid:S1610
+"4Convert the abstract class "Main" into an interface.(îƒŠûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¨Şüÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(òŠğÏ
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Âÿïí
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¥ÈÁ
+Msquid:S24401"/Remove this instantiation of "IsnumericNumber".(Õ¼…Ñ8›Ó’ÕÖ.

@@ -1,0 +1,7 @@
+
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+8squid:S1170	"!Make this final field static too.(„ÀÃÞ
+ksquid:S00116	"SRename this field "POR_FIJO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÀÃÞ
+ksquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œ–ßÿÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(àœéí
